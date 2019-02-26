@@ -1,16 +1,25 @@
 # frontend voor designers - opdracht 1
-Hier beschrijf je de opdracht, wat je hebt gemaakt en hoe je je ontwerp door verschillende versies te testen hebt verbeterd. Bij iedere test voeg je een link toe naar de betreffende demo.
+Voor de eerste opdracht heb ik gekozen voor de drag & drop opdracht.
+De use case is: “In een verzameling muzieknummers wil ik de volgorde kunnen veranderen om een vette playlist te maken.”
 
-Bijvoorbeel bij de demo van versie in kun je zo een link maken, zodat iedereen de demo zelf kan uitproberen:
 
 [Demo 1 voor opdracht 1](https://koopreynders.github.io/frontendvoordesigners/opdracht1/v1/)
 
+(https://EsmeeBarten.github.io/frontend4designers/v1/)
+
+Bij test 1 kwam eruit dat de techniek op zich goed werkt.
+De lay-out is nog saai en spreekt niet aan.
+De gebruiker vindt het verwarrend dat hij het nummer niet boven een andere kan zetten, maar alleen eronder.
+
 [Demo 2 voor opdracht 1](https://koopreynders.github.io/frontendvoordesigners/opdracht1/v2/)
+
+Na dat ik de eerste feedback had verwerkt waren er nog een aantal feedback punten.
+De balk die aanwijst waar je je het item kan laten vallen verschijnt ook bovenaan de lijst (ul element).
+De achtergrond foto is wat donker en onduidelijk.
 
 [Demo 3 voor opdracht 1](https://koopreynders.github.io/frontendvoordesigners/opdracht1/v3/)
 
-[Demo 4 voor opdracht 1](https://koopreynders.github.io/frontendvoordesigners/opdracht1/v4/)
 
-Je kan ook een link plaatsen naar de bron code van de demo:
+Je kan ook een link plaatsen naar de broncode van de demo:
 
-[Code demo 1 voor opdracht 1](https://github.com/KoopReynders/frontendvoordesigners/blob/master/opdracht1/v1/)
+[Code demo 1 voor opdracht 1]( https://stackoverflow.com/questions/44415228/list-sorting-with-html5-dragndrop-drop-above-or-below-depending-on-mouse)
