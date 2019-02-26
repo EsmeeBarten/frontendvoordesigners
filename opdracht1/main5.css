@@ -1,17 +1,17 @@
 @font-face {
     font-family: 'Playlist';
-    src: url('../v3/fonts/Yumaro.eot');
-    src: url('../v3/fonts/Yumaro.eot?#iefix') format('embedded-opentype'),
-    url('../v3/fonts/Yumaro.woff') format('woff'),
-    url('../v3/fonts/Yumaro.ttf') format('truetype');
+    src: url('../opdracht1/fonts/Yumaro.eot');
+    src: url('../opdracht1/fonts/Yumaro.eot?#iefix') format('embedded-opentype'),
+    url('../opdracht1/fonts/Yumaro.woff') format('woff'),
+    url('../opdracht1/fonts/Yumaro.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'OnTheRoad';
-    src: url('../v3/fonts/SCRIPTIN.eot');
-    src: url('../v3/fonts/SCRIPTIN.eot?#iefix') format('embedded-opentype'),
-    url('../v3/fonts/SCRIPTIN.woff') format('woff'),
-    url('../v3/fonts/SCRIPTIN.ttf') format('truetype');
+    src: url('../opdracht1/fonts/SCRIPTIN.eot');
+    src: url('../opdracht1/fonts/SCRIPTIN.eot?#iefix') format('embedded-opentype'),
+    url('../opdracht1/fonts/SCRIPTIN.woff') format('woff'),
+    url('../opdracht1/fonts/SCRIPTIN.ttf') format('truetype');
 }
 
 body {
