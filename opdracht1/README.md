@@ -5,7 +5,6 @@ De use case is: “In een verzameling muzieknummers wil ik de volgorde kunnen ve
 
 [Demo 1 voor opdracht 1](https://koopreynders.github.io/frontendvoordesigners/opdracht1/v1/)
 
-(https://EsmeeBarten.github.io/frontend4designers/v1/)
 
 Bij test 1 kwam eruit dat de techniek op zich goed werkt.
 De lay-out is nog saai en spreekt niet aan.
