@@ -1,3 +1,33 @@
 body {
-    background: red;
+
 }
+
+main {
+    display: flex;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: darkgreen;
+}
+
+img {
+    width: 100vw;
+
+}
+
+img.twee, .drie, .vier, .vijf, .zes, .zeven, .acht {
+    display: none;
+}
+
+button {
+    height: 100vh;
+    background-color: white;
+    border: none;
+}
+
+button img {
+    width: 50px;
+}
+
+
