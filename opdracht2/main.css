@@ -13,12 +13,8 @@ h1 {
 
 img {
     width: 100vw;
-
 }
 
-img.twee, .drie, .vier, .vijf, .zes, .zeven, .acht {
-    display: none;
-}
 
 button {
     height: 100vh;
@@ -29,5 +25,14 @@ button {
 button img {
     width: 50px;
 }
+
+.hidden {
+    display: none;
+}
+
+.display {
+    display: block;
+}
+
 
 
