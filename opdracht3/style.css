@@ -1,0 +1,72 @@
+body {
+    background-color: darkgray;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+h2 { /* TITEL */
+font-family: sans-serif;
+background-color: darkblue;
+color: white;
+margin-left: 150px;
+padding: 10px;
+padding-left: 15px;
+width: 635px;
+}
+
+h3 { /* RESEASE DATE */
+font-family: sans-serif;
+font-size: 1em;
+display: inline;
+margin-left: 10px;
+}
+
+h4 { /* GERNE */
+font-family: sans-serif;
+font-size: 0.9em;
+display: inline;
+margin-left: 50px;
+}
+
+p { /* MINI PLOT TEKST */
+font-family: sans-serif;
+font-size: 0.8em;
+margin-left: 160px;
+}
+
+img {
+    width: 150px;
+    float:left;
+}
+
+article {
+    margin-bottom: 10px;
+    background: rgba(182,220,252,0.8);
+    width: 800px;
+    height: 220px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: skyblue;
+    border: none;
+    border-bottom: solid 2px steelblue;
+    border-right:  solid 2px steelblue;
+    border-radius: 5px;
+
+    margin: 10px;
+    padding: 7px;
+
+}
+
+button p {
+    font-family: sans-serif;
+    font-size: 2em;
+    margin: 0;
+}
+
