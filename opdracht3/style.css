@@ -4,7 +4,7 @@ body {
 }
 
 header {
-     display: flex;
+    display: flex;
     flex-direction: column;
 }
 
@@ -26,9 +26,9 @@ h2 {
     color: white;
     border-radius: 5px;
     margin-left: 100px;
-    margin-right: 50px;
     padding: 10px;
     padding-left: 60px;
+    width: 700px;
 }
 
 h3 {
@@ -48,11 +48,16 @@ h4 {
 }
 
 h5 {
-font-family: sans-serif;
+    font-family: sans-serif;
     font-size: 0.8em;
     margin-left: 160px;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 0;
+}
+
+ul {
+    margin: 0;
 }
 
 li {
@@ -70,6 +75,9 @@ p {
     font-size: 0.8em;
     margin-left: 160px;
     margin-right: 50px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    width: 700px;
 }
 
 img {
@@ -77,13 +85,9 @@ img {
     float: left;
 }
 
-article {
-    background: red;
-}
-
-section>article {
+section > article {
     margin-bottom: 10px;
-    background: rgba(182, 220, 252, 0.8);
+    background: rgb(182, 220, 252);
     height: 220px;
     padding: 10px;
     border-radius: 5px;
@@ -106,11 +110,36 @@ button p {
     font-family: sans-serif;
     font-size: 2em;
     margin: 0;
+    width: 150px;
 }
 
 article button {
     float: right;
     margin-right: 50px;
+}
+
+.leesMeerContainer {
+    background: rgb(182, 220, 252);
+    height: 200px;
+    width: 900px;
+    padding: 20px;
+    border-radius: 5px;
+
+    position: absolute;
+    margin-top: -135px;
+    margin-left: -10px;
+}
+
+.leesMeerContainer img {
+    width: 150px;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+.leesMeerContainer > p {
+    font-size: 0.7em;
+    margin-top: 0px;
+    margin-bottom: 3px;
 }
 
 .content .leesMeerContainer {
