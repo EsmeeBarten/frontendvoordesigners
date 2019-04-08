@@ -22,8 +22,25 @@ function enterToets(event, data){
     if (event.key === "Enter"){
         console.log('enter');
 
-function createElement(data) {
-    for (var item of data) {
+        function ZoekFilms() {
+    var requestURL = 'https://koopreynders.github.io/frontendvoordesigners/opdracht3/json/movies.json';
+
+    var request = new XMLHttpRequest();
+    request.open('GET', requestURL);
+    request.responseType = 'json';
+    request.send();
+
+    request.onreadystatechange = function () {
+        if (this.readyState === 4 && this.status === 200) {
+            createElement(request.response);
+        }
+    };
+}
+
+        ZoekFilms();
+
+        function createElement(data) {
+        for (var item of data) {
         console.log(item['actors']);
 
         //STANDAARD INFORMATIE
@@ -104,10 +121,10 @@ function createElement(data) {
 
         //ARTICLE IN SECTION PLAATSEN
         document.querySelector('section').appendChild(myArticle);
-    }}
-    LeesMeerButton();
-}}
-function LeesMeerButton() {
+    }
+        LeesMeerButton();}
+
+        function LeesMeerButton() {
     //LEES MEER BUTTONS SELECTEREN
     var buttons = document.querySelectorAll('.leesMeer');
 
@@ -118,8 +135,9 @@ function LeesMeerButton() {
 
             parent.classList.toggle('active');
         });
-        }}
+    }}
 
+}}
 
  //VIA CLICK BESTUREN
 function createElement(data) {
@@ -209,6 +227,8 @@ function createElement(data) {
 }
 
 function LeesMeerButton() {
+
+    console.log('Lees Meer')
     //LEES MEER BUTTONS SELECTEREN
     var buttons = document.querySelectorAll('.leesMeer');
 
@@ -220,7 +240,6 @@ function LeesMeerButton() {
             parent.classList.toggle('active');
         });
     }}
-
 
 
 ZoekButton.addEventListener('click', ZoekFilms);
