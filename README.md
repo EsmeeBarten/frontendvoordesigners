@@ -7,11 +7,5 @@ Dit is de [online url](https://esmeebarten.github.io/frontendvoordesigners/) met
 Het vak bestaat uit 3 opdrachten:
 
 1. [Opdracht 1](https://esmeebarten.github.io/frontendvoordesigners/opdracht1/)
-2. [Opdracht 2](opdracht2/)
-3. [Opdracht 3](opdracht3/)
-
-
----
-- [Markup cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Getting started with GitHub Pages](https://guides.github.com/features/pages/)
-dhjas
+2. [Opdracht 2](https://esmeebarten.github.io/frontendvoordesigners/opdracht2/)
+3. [Opdracht 3](https://esmeebarten.github.io/frontendvoordesigners/opdracht3/)
