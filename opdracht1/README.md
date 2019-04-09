@@ -9,6 +9,6 @@ Ik heb de playlist gestetst.
 In versie 1 tripte het groene balkje die aangeeft waar je je item kan laten vallen hem steeds.
 Dit heb ik in versie 2 opgelost. Ook heb ik meer kleur toegebracht in versie 2 en een betere kwaliteit foto.
 
-[Versie 1](https://esmeebarten.github.io/frontendvoordesigners/opdracht1/v1/)
-[Versie 2](https://esmeebarten.github.io/frontendvoordesigners/opdracht1/v2/)
+1. [Versie 1](https://esmeebarten.github.io/frontendvoordesigners/opdracht1/v1/)
+2. [Versie 2](https://esmeebarten.github.io/frontendvoordesigners/opdracht1/v2/)
 

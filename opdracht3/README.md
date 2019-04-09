@@ -7,6 +7,6 @@ Ik heb een website gemaakt waar je oudere films kan laden via het klikken op de 
 Ik heb in week 9 getest en daar kwam uit dat ik een loading state miste.
 Dit heb ik toegevoegd in versie 2.
 
-[Versie 1](https://esmeebarten.github.io/frontendvoordesigners/opdracht3/v2/)
-[Versie 2](https://esmeebarten.github.io/frontendvoordesigners/opdracht3/v2/)
+1. [Versie 1](https://esmeebarten.github.io/frontendvoordesigners/opdracht3/v2/)
+2. [Versie 2](https://esmeebarten.github.io/frontendvoordesigners/opdracht3/v2/)
 
