@@ -160,7 +160,7 @@ span img {
 }
 
 .zichtbaar {
-   align-items: center;
+    margin-left: 570px;
     display: block;
 }
 
