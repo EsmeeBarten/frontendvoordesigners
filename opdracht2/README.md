@@ -10,3 +10,6 @@ In de eerste versie was de slide show erg saai. Alles was grijs en de tekst op d
 Ik heb de tekst op de foto zwart gemaakt en opnieuw beelden geselecteerd waarop de tekst goed te lezen is.
 Verder heb ik de knoppen groen gemaakt zodat ze bij de foto's passen.
 
+[Versie 1](https://esmeebarten.github.io/frontendvoordesigners/opdracht2/v1/)
+[Versie 2](https://esmeebarten.github.io/frontendvoordesigners/opdracht2/v2/)
+
