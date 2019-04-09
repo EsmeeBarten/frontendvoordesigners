@@ -4,6 +4,10 @@ Opdracht 1      Drag & Drop
 
 Drag & Drop vond ik een erg uitdagende opdracht om te doen.
 Ik heb er veel tijd in gestoken, maar het is gelukt.
+Ik heb veel soorten van deze code bekeken en van meerdere sripts mijn eigen script gemaakt.
+Je kan je item op pakken en weer terug zetten in de lijst.
+Het item komt altijd boven zijn parent.
+
 
 Ik heb de playlist gestetst.
 In versie 1 tripte het groene balkje die aangeeft waar je je item kan laten vallen hem steeds.
