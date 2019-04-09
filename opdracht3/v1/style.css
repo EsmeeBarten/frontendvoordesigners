@@ -149,3 +149,16 @@ article button {
 .content.active .leesMeerContainer {
     display: block;
 }
+
+span {
+    align-self: center;
+    display: none;
+}
+
+.zichtbaar {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}

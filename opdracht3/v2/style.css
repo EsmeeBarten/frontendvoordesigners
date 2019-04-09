@@ -1,0 +1,169 @@
+body {
+    background-color: darkgray;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 2em;
+    align-self: center;
+}
+
+h2 {
+    /* TITEL */
+    font-family: sans-serif;
+    background-color: darkblue;
+    color: white;
+    border-radius: 5px;
+    margin-left: 100px;
+    padding: 10px;
+    padding-left: 60px;
+    width: 700px;
+}
+
+h3 {
+    /* RESEASE DATE */
+    font-family: sans-serif;
+    font-size: 1em;
+    display: inline;
+    margin-left: 10px;
+}
+
+h4 {
+    /* GERNE */
+    font-family: sans-serif;
+    font-size: 0.9em;
+    display: inline;
+    margin-left: 50px;
+}
+
+h5 {
+    font-family: sans-serif;
+    font-size: 0.8em;
+    margin-left: 160px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 0;
+}
+
+ul {
+    margin: 0;
+}
+
+li {
+    list-style: none;
+    font-family: sans-serif;
+    font-size: 0.7em;
+    margin-left: 120px;
+    margin-bottom: 0;
+    margin-top: 1px;
+}
+
+p {
+    /* MINI PLOT TEKST */
+    font-family: sans-serif;
+    font-size: 0.8em;
+    margin-left: 160px;
+    margin-right: 50px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    width: 700px;
+}
+
+img {
+    width: 150px;
+    float: left;
+}
+
+section > article {
+    margin-bottom: 10px;
+    background: rgb(182, 220, 252);
+    height: 220px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: skyblue;
+    border: none;
+    border-bottom: solid 2px steelblue;
+    border-right: solid 2px steelblue;
+    border-radius: 5px;
+    align-self: center;
+    margin: 10px;
+    margin-bottom: 50px;
+    padding: 7px;
+
+}
+
+button p {
+    font-family: sans-serif;
+    font-size: 2em;
+    margin: 0;
+    width: 150px;
+}
+
+article button {
+    float: right;
+    margin-right: 50px;
+}
+
+.leesMeerContainer {
+    background: rgb(182, 220, 252);
+    height: 200px;
+    width: 900px;
+    padding: 20px;
+    border-radius: 5px;
+
+    position: absolute;
+    margin-top: -135px;
+    margin-left: -10px;
+}
+
+.leesMeerContainer img {
+    width: 150px;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+.leesMeerContainer > p {
+    font-size: 0.7em;
+    margin-top: 0px;
+    margin-bottom: 3px;
+}
+
+.content .leesMeerContainer {
+    display: none;
+}
+
+.content.active .leesMeerContainer {
+    display: block;
+}
+
+.buttonactief {
+    background: red;
+}
+
+span img {
+    align-items: center;
+    display: none;
+}
+
+.zichtbaar {
+   align-items: center;
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
