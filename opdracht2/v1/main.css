@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'SlideShow';
+    src: url('../v1/fonts/SCRIPTIN.eot');
+    src: url('../v1/fonts/SCRIPTIN.eot?#iefix') format('embedded-opentype'),
+    url('../v1/fonts/SCRIPTIN.woff') format('woff'),
+    url('../v1/fonts/SCRIPTIN.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Datum';
+    src: url('../v1/fonts/Yumaro.eot');
+    src: url('../v1/fonts/Yumaro.eot?#iefix') format('embedded-opentype'),
+    url('../v1/fonts/Yumaro.woff') format('woff'),
+    url('../v1/fonts/Yumaro.ttf') format('truetype');
+}
+
+body {
+    background-color: lightgrey;
+    position: relative;
+    margin: 0;
+}
+
+main {
+    display: flex;
+}
+
+
+h1 {
+    font-family: 'SlideShow', sans-serif ;
+    font-size: 4em;
+    color: grey;
+    position: absolute;
+    margin-top: -0.5em;
+}
+
+h2 {
+    font-family: 'Datum', sans-serif ;
+    font-size: 1em;
+    color: grey;
+    position: absolute;
+    margin-top: 6.5em;
+    margin-left: 4em;
+}
+
+img {
+    width: 90vw;
+    height: 100vh;
+}
+
+
+button {
+    height: 100vh;
+    background-color: dimgray;
+    border: none;
+    display: inline;
+}
+
+button img {
+    width: 50px;
+    display: inline;
+    height: auto;
+}
+
+.hidden {
+    display: none;
+}
+
+.display {
+    display: inline;
+}
+

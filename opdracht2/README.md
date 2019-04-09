@@ -10,10 +10,11 @@ Ik heb een teller gemaakt die bij houd bij welke foto we zijn en welke foto daar
 De functies worden twee keer geschreven 1x voor de muis actie en 1x voor de pijltjes acties.
 Elke keer haalt die de vorige foto weg door de class hidden en laat die de volgende foto zien.
 
-
-In de eerste versie was de slide show erg saai. Alles was grijs en de tekst op de foto was slecht leesbaar.
+In de eerste versie was de slide show erg saai. Alles was grijs en de tekst op de foto was slecht leesbaar
+(Niet te zien in versie 1, ivm dat ik die gelijk vervangen heb en vergeten een versie te maken).
 Ik heb de tekst op de foto zwart gemaakt en opnieuw beelden geselecteerd waarop de tekst goed te lezen is.
-Verder heb ik de knoppen groen gemaakt zodat ze bij de foto's passen.
+Verder heb ik de knoppen groen gemaakt zodat ze bij de foto's passen. En kan je in versie 2 de slide show ook met de pijltjes besturen.
+
 
 1. [Versie 1](https://esmeebarten.github.io/frontendvoordesigners/opdracht2/v1/)
 2. [Versie 2](https://esmeebarten.github.io/frontendvoordesigners/opdracht2/v2/)
