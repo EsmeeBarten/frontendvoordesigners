@@ -8,27 +8,24 @@ PROTOTYPES
 
 
 OPDRACHT
-
-De opdracht is dat je met JSON data een film database maakt.
-De elementen moeten van de JSON file via Javascript worden ingeladen in HTML.
+De opdracht is dat je met JSON-data een filmdatabase maakt.
+De elementen moeten van de JSON-file via Javascript worden ingeladen in HTML.
 Je moet de HTML op twee manieren kunnen besturen.
 
 
 CRITERIA'S
-
 - De uitwerking van je ontwerp moet het doen in een browser en device naar keuze.
 - De data wordt van een externe bron ingeladen met Javascript
-- In de demo maak je gebruik van meerdere verschillende UI events zodat gebruikers je ontwerp op verschillende manieren kunnen bedienen.
-- Verschillende states van de UI stack worden opgevangen en zijn vormgegeven.
+- In de demo maak je gebruik van meerdere verschillende UI-events zodat gebruikers je ontwerp op verschillende manieren kunnen bedienen.
+- Verschillende states van de UI-stack worden opgevangen en zijn vormgegeven.
 - In de demo dien je rekening te houden met de interface design principles 04, 09 en 11 van Principles of User Interface Design.
 - Je ontwerp is aantoonbaar getest en verbeterd. Verslaglegging en resultaat publiceren op Github
 
 
 CODE
-
 In de HTML heb ik zo min mogelijk neer gezet voordat ik begon. Enkel de titel en een knop welke je gelijk ziet als je op de pagina komt.
-Daarna ben ik begonnen met het inladen van de elementen uit de JSON file.
-Ik zoek de elementen in de JSON file door ze in de console log te loggen doormiddel van console.log(item['title']);
+Daarna ben ik begonnen met het inladen van de elementen uit de JSON-file.
+Ik zoek de elementen in de JSON-file door ze in de console log te loggen doormiddel van console.log(item['title']);
 
 Daarna maak een HTML element aan, bijvoorbeeld een H2, door de code var myH2 = document.createElement('h2'); te gebruiken.
 Als ik het HTML element heb aangemaakt vul ik hem met de informatie uit de JSON file door de code myH2.textContent = item.title;.
@@ -39,7 +36,7 @@ Op deze manier heb ik mijn hele HTML opgebouwd met de informatie die ik nodig ha
 
 Als laatste maak ik een div aan voor de extra informatie die ik wil tonen. De informatie die ik graag in het extra venster wil tonen zet ik daarin.
 Via CSS zorg ik ervoor dat je de informatie niet gelijk ziet, maar dat je het pas ziet als je op de knop 'lees meer' drukt.
-Deze knop word gestuurd door de functie LeesMeerButton die ervoor zorgt dat je de extra informatie te zien krijgt.
+Deze knop wordt gestuurd door de functie LeesMeerButton die ervoor zorgt dat je de extra informatie te zien krijgt.
 
 function LeesMeerButton() {
 console.log('Lees Meer')                                //Checken of de functie het doet
@@ -75,7 +72,6 @@ De kopjes zijn dik gedrukt zodat je makkelijk kan scannen wat je wil weten.
 
 
 TESTEN
-
 Ik heb in week 9 getest en daar kwam uit dat de gebruiker een loading state miste.
 Dit heb ik toegevoegd in versie 2. Ook de knop "Zoek films" heb ik weg gehaald als er eenmaal 1x op gedrukt is.
 Hierdoor heeft de gebruiker niet het idee dat er meer komt als hij er vaker op klikt.
