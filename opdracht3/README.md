@@ -8,12 +8,14 @@ PROTOTYPES
 
 
 OPDRACHT
+
 De opdracht is dat je met JSON data een film database maakt.
 De elementen moeten van de JSON file via Javascript worden ingeladen in HTML.
 Je moet de HTML op twee manieren kunnen besturen.
 
 
 CRITERIA'S
+
 - De uitwerking van je ontwerp moet het doen in een browser en device naar keuze.
 - De data wordt van een externe bron ingeladen met Javascript
 - In de demo maak je gebruik van meerdere verschillende UI events zodat gebruikers je ontwerp op verschillende manieren kunnen bedienen.
@@ -23,6 +25,7 @@ CRITERIA'S
 
 
 CODE
+
 In de HTML heb ik zo min mogelijk neer gezet voordat ik begon. Enkel de titel en een knop welke je gelijk ziet als je op de pagina komt.
 Daarna ben ik begonnen met het inladen van de elementen uit de JSON file.
 Ik zoek de elementen in de JSON file door ze in de console log te loggen doormiddel van console.log(item['title']);
@@ -72,6 +75,7 @@ De kopjes zijn dik gedrukt zodat je makkelijk kan scannen wat je wil weten.
 
 
 TESTEN
+
 Ik heb in week 9 getest en daar kwam uit dat de gebruiker een loading state miste.
 Dit heb ik toegevoegd in versie 2. Ook de knop "Zoek films" heb ik weg gehaald als er eenmaal 1x op gedrukt is.
 Hierdoor heeft de gebruiker niet het idee dat er meer komt als hij er vaker op klikt.
