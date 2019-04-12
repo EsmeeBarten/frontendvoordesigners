@@ -2,6 +2,7 @@
 var ZoekButton = document.querySelector('button');
 var Loading = document.querySelector('span img');
 
+//LOADING STATE
 function loadingZichtbaar() {
     ZoekButton.classList.add('hidden');
 }
@@ -27,6 +28,7 @@ function ZoekFilms() {
         }
     };
 }
+
 
 //VIA ENTER BESTUREN
 function enterToets(event, data) {
@@ -166,6 +168,7 @@ function enterToets(event, data) {
         Loader();
     }
 };
+
 
 //VIA CLICK BESTUREN
 function createElement(data) {
