@@ -1,11 +1,9 @@
 # frontend voor designers
 
-In het vak Frontend voor Designers leer je hoe je met HTML en CSS, en een beetje Javascript, snel en eenvoudig prototypes kan maken om je ontwerp ideeën te testen in een browser. We gaan animeren, responsive layouts uitproberen en interactie coderen ...
+Voor het vak Frontend voor designers hebben we de afgelopen 10 weken gewerkt aan drie opdrachten.
+De drie opdrachten en informatie over de opdracht vind je hier beneden.
 
-Dit is de [online url](https://esmeebarten.github.io/frontendvoordesigners/) met de opdrachten om te kunnen bekijken en testen in een browser.
-
-Het vak bestaat uit 3 opdrachten:
-
-1. [Opdracht 1](https://esmeebarten.github.io/frontendvoordesigners/opdracht1/)
-2. [Opdracht 2](https://esmeebarten.github.io/frontendvoordesigners/opdracht2/)
-3. [Opdracht 3](https://esmeebarten.github.io/frontendvoordesigners/opdracht3/)
+De 3 opdrachten:
+1. [Opdracht 1: Drag & Drop](https://esmeebarten.github.io/frontendvoordesigners/opdracht1/)
+2. [Opdracht 2: Slide show](https://esmeebarten.github.io/frontendvoordesigners/opdracht2/)
+3. [Opdracht 3: API films](https://esmeebarten.github.io/frontendvoordesigners/opdracht3/)
