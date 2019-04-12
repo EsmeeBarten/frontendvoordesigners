@@ -1,26 +1,25 @@
 @font-face {
     font-family: 'Playlist';
-    src: url('../opdracht1/fonts/Yumaro.eot');
-    src: url('../opdracht1/fonts/Yumaro.eot?#iefix') format('embedded-opentype'),
-    url('../opdracht1/fonts/Yumaro.woff') format('woff'),
-    url('../opdracht1/fonts/Yumaro.ttf') format('truetype');
+    src: url('../v2/fonts/Yumaro.eot');
+    src: url('../v2/fonts/Yumaro.eot?#iefix') format('embedded-opentype'),
+    url('../v2/fonts/Yumaro.woff') format('woff'),
+    url('../v2/fonts/Yumaro.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'OnTheRoad';
-    src: url('../opdracht1/fonts/SCRIPTIN.eot');
-    src: url('../opdracht1/fonts/SCRIPTIN.eot?#iefix') format('embedded-opentype'),
-    url('../opdracht1/fonts/SCRIPTIN.woff') format('woff'),
-    url('../opdracht1/fonts/SCRIPTIN.ttf') format('truetype');
+    src: url('../v2/fonts/SCRIPTIN.eot');
+    src: url('../v2/fonts/SCRIPTIN.eot?#iefix') format('embedded-opentype'),
+    url('../v2/fonts/SCRIPTIN.woff') format('woff'),
+    url('../v2/fonts/SCRIPTIN.ttf') format('truetype');
 }
 
 body {
-    background: url(../opdracht1/images/background.jpg);
+    background: url(../v2/images/background.jpg);
     background-repeat: no-repeat;
     background-position: right top;
     background-size: 100vw;
 }
-
 
 h1 {
     color: darkolivegreen;
